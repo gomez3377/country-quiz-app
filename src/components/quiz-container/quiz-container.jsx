@@ -6,6 +6,7 @@ const QuizContainer = ( {question} ) => {
     <div>
         <h3 className='question'>{question}</h3>
         <div>
+            
             <Answer/>
         </div>
     </div>
